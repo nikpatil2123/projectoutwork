@@ -34,8 +34,9 @@ export default function Awards() {
         <div className="flex flex-col lg:flex-row gap-12 lg:gap-24">
           {/* Left Column */}
           <div className="lg:w-1/4 shrink-0 lg:sticky lg:top-32 lg:self-start">
-            <h2 className="text-xs font-medium uppercase tracking-widest text-[#aaa]">
-              Awards & Recognition
+            <h2 className="text-[3rem] font-normal leading-[1.1] tracking-tighter text-white md:text-[4.5rem]">
+              Awards &<br />
+              Recognition
             </h2>
           </div>
 
