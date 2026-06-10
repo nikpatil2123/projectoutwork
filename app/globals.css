@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-helvetica), "Helvetica Neue", Arial, sans-serif;
+  --color-body-black: #151515;
+  --color-mid-black: #1c1c1c;
+  --color-bento: #212121;
+  --color-light-gray: #f0f0f0;
+  --color-gray-text: #727272;
+  --color-soft-gray: #aaaaaa;
+  --color-mid-gray: #b5b5b5;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  font-size: 1.2rem;
+  line-height: 1.4;
+  background-color: var(--color-body-black);
+  color: black;
+}
+
+/* story progress bar fill animation (hero slider) */
+@keyframes story-fill {
+  from {
+    width: 0%;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+.story-fill-active {
+  animation: story-fill var(--story-duration, 4s) linear forwards;
+}
+
+/* hide scrollbars on slider tracks */
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}

@@ -1,0 +1,1887 @@
+      "Silv Studio | Web Design, Web Development & SEO Agency"
+          <div .w-embed>
+        <div .nav-overlay>
+        <div .pull-out-nav-holder>
+          <div .pull-out-bg-body>
+            <div .pull-out-inner-wrapper>
+              <div .company-panel>
+                <div .pull-out-top>
+                  <div .nav-arrow-left>
+                    <img .chevron src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696f9870302a0be05c3b8780_chevron.svg>
+                  <div .menu-x-wrapper>
+                    <img .x-nav src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696f8f623e17745f67504299_X.svg>
+                <div .pull-out-company>
+                  <a .pull-out-menu-block company w-inline-block href=/faq>
+                    <div .pull-out-link-text>
+                      "FAQ"
+                    <img . src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696f905e86a7fd6df04978da_svgexport-21.sv>
+                  <a .pull-out-menu-block company w-inline-block href=/testimonials>
+                    <div .pull-out-link-text>
+                      "Testimonials"
+                    <img . src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696f905e86a7fd6df04978da_svgexport-21.sv>
+                  <a .pull-out-menu-block company w-inline-block href=/awards>
+                    <div .pull-out-link-text>
+                      "Awards"
+                    <img . src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696f905e86a7fd6df04978da_svgexport-21.sv>
+              <div .services-panel>
+                <div .pull-out-top>
+                  <div .nav-arrow-left>
+                    <img .chevron src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696f9870302a0be05c3b8780_chevron.svg>
+                  <div .menu-x-wrapper>
+                    <img .x-nav src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696f8f623e17745f67504299_X.svg>
+                <div .pull-out-links-services>
+                  <a .pull-out-menu-block company w-inline-block href=/services/website-design>
+                    <div .pull-out-link-text>
+                      "Web Design"
+                    <img . src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696f905e86a7fd6df04978da_svgexport-21.sv>
+                  <a .pull-out-menu-block company w-inline-block href=/services/web-development>
+                    <div .pull-out-link-text>
+                      "Web Development"
+                    <img . src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696f905e86a7fd6df04978da_svgexport-21.sv>
+                  <a .pull-out-menu-block company w-inline-block href=/services/ecommerce>
+                    <div .pull-out-link-text>
+                      "Ecommerce"
+                    <img . src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696f905e86a7fd6df04978da_svgexport-21.sv>
+                  <a .pull-out-menu-block company w-inline-block href=/services/branding>
+                    <div .pull-out-link-text>
+                      "Visual Identity"
+                    <img . src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696f905e86a7fd6df04978da_svgexport-21.sv>
+                  <a .pull-out-menu-block company w-inline-block href=/services/search-engine-optimization>
+                    <div .pull-out-link-text>
+                      "SEO"
+                    <img . src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696f905e86a7fd6df04978da_svgexport-21.sv>
+              <div .pull-out-inner-inner-container _01>
+                <div .pull-out-inner-inner>
+                  <div .menu-pullout-top po-main-nav>
+                    <div .pull-out-top>
+                      <div .menu-text-block>
+                        "Menu"
+                      <div .menu-x-wrapper>
+                        <img .x-nav src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696f8f623e17745f67504299_X.svg>
+                  <div .pullout-menu>
+                    <div .pull-out-menu-block services sheet-parent>
+                      <div .pull-out-link-text>
+                        "Services"
+                      <img . src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696f905e86a7fd6df04978da_svgexport-21.sv>
+                    <div .pull-out-menu-block company>
+                      <div .pull-out-link-text>
+                        "Company"
+                      <img . src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696f905e86a7fd6df04978da_svgexport-21.sv>
+                    <a .pull-out-menu-block projects w-inline-block href=/portfolio-projects>
+                      <div .pull-out-link-text>
+                        "Projects"
+                      <img . src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696f905e86a7fd6df04978da_svgexport-21.sv>
+                    <a .pull-out-menu-block templates w-inline-block href=https://www.silvtemplates.com/>
+                      <div .pull-out-link-text>
+                        "Templates"
+                      <img . src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696f905e86a7fd6df04978da_svgexport-21.sv>
+                    <a .pull-out-menu-block resources-1 w-inline-block href=/blog>
+                      <div .pull-out-link-text>
+                        "Blog"
+                      <img . src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696f905e86a7fd6df04978da_svgexport-21.sv>
+                    <a .pull-out-menu-block awards w-inline-block href=/contact-us>
+                      <div .pull-out-link-text>
+                        "Contact Us"
+                      <img . src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696f905e86a7fd6df04978da_svgexport-21.sv>
+                    <a .pull-out-menu-block awards w-inline-block href=/about-us>
+                      <div .pull-out-link-text>
+                        "About Us"
+                      <img . src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696f905e86a7fd6df04978da_svgexport-21.sv>
+              <div .pull-out-inner-inner-container>
+                <div .pull-out-inner-inner po-main-nav _02>
+                  <div .pullout-menu>
+                    <div .pull-out-menu-top>
+                      <div .menu-text-block>
+                        "Recent Projects"
+                    <div .swiper_component home-hero>
+                      <div .swiper swiper13 view-all w-dyn-list>
+                        <div .swiper-wrapper w-dyn-items>
+                          <div .swiper-slide nav-pullout w-dyn-item>
+                            <a .project-card-holder w-inline-block href=/project/tigris-drinks>
+                              <div .project-card-container>
+                                <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/696a9d74039b137a481b143d_68c1eaae78db900>
+                              <div .text-box project-info navigation-heading _02>
+                                <h3 .h3-heading project-name nav-side>
+                                  "Tigris Drinks"
+                          <div .swiper-slide nav-pullout w-dyn-item>
+                            <a .project-card-holder w-inline-block href=/project/mystery-hype>
+                              <div .project-card-container>
+                                <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/696a9d7297a96aadee8f5bbf_68b96f5ca888489>
+                              <div .text-box project-info navigation-heading _02>
+                                <h3 .h3-heading project-name nav-side>
+                                  "Mystery Hype"
+                          <div .swiper-slide nav-pullout w-dyn-item>
+                            <a .project-card-holder w-inline-block href=/project/loop-ring>
+                              <div .project-card-container>
+                                <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/696a9d71b48e459dd614fd9f_68c09bf869aec99>
+                              <div .text-box project-info navigation-heading _02>
+                                <h3 .h3-heading project-name nav-side>
+                                  "Loop Ring"
+                          <div .swiper-slide nav-pullout w-dyn-item>
+                            <a .project-card-holder w-inline-block href=/project/kurama-tennis>
+                              <div .project-card-container>
+                                <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/696a9d71032bd64521e989e1_68b96c6cf39880e>
+                              <div .text-box project-info navigation-heading _02>
+                                <h3 .h3-heading project-name nav-side>
+                                  "Kurama Tennis"
+                          <div .swiper-slide nav-pullout w-dyn-item>
+                            <a .project-card-holder w-inline-block href=/project/lucario-ai>
+                              <div .project-card-container>
+                                <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/696a9d71afd509ea956bad86_68b96f6f6c8bd2d>
+                              <div .text-box project-info navigation-heading _02>
+                                <h3 .h3-heading project-name nav-side>
+                                  "Lucario AI"
+                          <div .swiper-slide nav-pullout w-dyn-item>
+                            <a .project-card-holder w-inline-block href=/project/constint-app>
+                              <div .project-card-container>
+                                <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/696a9d6fb3a3f9780f5ec342_68b96d012cac005>
+                              <div .text-box project-info navigation-heading _02>
+                                <h3 .h3-heading project-name nav-side>
+                                  "Constint App"
+                          <div .swiper-slide nav-pullout w-dyn-item>
+                            <a .project-card-holder w-inline-block href=/project/eros-agency>
+                              <div .project-card-container>
+                                <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/696a9d6f4a4aa90c354f9cf1_68b96caab103897>
+                              <div .text-box project-info navigation-heading _02>
+                                <h3 .h3-heading project-name nav-side>
+                                  "Eros Agency"
+                          <div .swiper-slide nav-pullout w-dyn-item>
+                            <a .project-card-holder w-inline-block href=/project/chillcat-drinks>
+                              <div .project-card-container>
+                                <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/696a9d6e6956a46ab3a04f63_68c3102819e92bc>
+                              <div .text-box project-info navigation-heading _02>
+                                <h3 .h3-heading project-name nav-side>
+                                  "Chillcat Drinks"
+                          <div .swiper-slide nav-pullout w-dyn-item>
+                            <a .project-card-holder w-inline-block href=/project/sayian-drinks>
+                              <div .project-card-container>
+                                <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/6967c04a4a8eabdf35955dfc_sayian-drinks-c>
+                              <div .text-box project-info navigation-heading _02>
+                                <h3 .h3-heading project-name nav-side>
+                                  "Sayian Drinks"
+                          <div .swiper-slide nav-pullout w-dyn-item>
+                            <a .project-card-holder w-inline-block href=/project/donutland>
+                              <div .project-card-container>
+                                <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/696ad1e71fba78a8464e332d_donutland-cover>
+                              <div .text-box project-info navigation-heading _02>
+                                <h3 .h3-heading project-name nav-side>
+                                  "Donutland"
+                          <div .swiper-slide nav-pullout w-dyn-item>
+                            <a .project-card-holder w-inline-block href=/project/vendibean>
+                              <div .project-card-container>
+                                <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/69ab39d8f7d77bae7d5d705b_vendibean-cover>
+                              <div .text-box project-info navigation-heading _02>
+                                <h3 .h3-heading project-name nav-side>
+                                  "Vendibean"
+                          <div .swiper-slide nav-pullout w-dyn-item>
+                            <a .project-card-holder w-inline-block href=/project/perico>
+                              <div .project-card-container>
+                                <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/6968c1ac94b830aa475a0a84_perico-cover.av>
+                              <div .text-box project-info navigation-heading _02>
+                                <h3 .h3-heading project-name nav-side>
+                                  "Perico"
+                          <div .swiper-slide nav-pullout w-dyn-item>
+                            <a .project-card-holder w-inline-block href=/project/snaxx>
+                              <div .project-card-container>
+                                <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/696ad1618421aa7f1d67a066_snaxx-cover.avi>
+                              <div .text-box project-info navigation-heading _02>
+                                <h3 .h3-heading project-name nav-side>
+                                  "Snaxx"
+        <div .navigation-bar w-nav>
+          <div .navigation-container-02>
+            <div .navigation-content>
+              <div .nav-left>
+                <a .nav-logo-link-block w-nav-brand w--current href=/>
+                  <img .logo-image src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/69a7564d977862d9960e2339_silv-studio-log>
+              <div .nav-right>
+                <nav .nav-menu w-nav-menu>
+                  <div .navigation-menu-list>
+                    <a .nav-link w-nav-link href=/about-us>
+                      "About"
+                    <a .nav-link w-nav-link href=/services>
+                      "Services"
+                    <a .nav-link w-nav-link href=/portfolio-projects>
+                      "Projects"
+                <div .navigation-button-wrapper>
+                  <a .general-button nav-btn w-button href=/contact-us>
+                    "Contact Us"
+                  <div .menu-button-main>
+                    <div .w-icon-nav-menu>
+        <div .page-wrapper>
+          <section .section hero>
+            <div .w-layout-blockcontainer container home-hero-new w-container>
+              <div .content-wrapper-main home-new-hero>
+                <div .text-box home-new-hero>
+                  <h1 .h1-heading normal-size h1-reveal>
+                    "Digital experiences built to"
+                    <span .gray>
+                      "out-perform."
+                <div .hero-content-links>
+                  <div .explore-title>
+                    "Explore"
+                  <div .w-layout-vflex hero-buttons-wrapper>
+                    <a .hero-buttons w-button href=/services/website-design>
+                      "Custom Websites"
+                    <a .hero-buttons w-button href=/services/branding>
+                      "Visual Identity"
+                    <a .hero-buttons w-button href=/services/ecommerce>
+                      "Ecommerce"
+                    <a .hero-buttons w-button href=https://www.silvtemplates.com/>
+                      "Templates"
+                    <a .hero-buttons w-button href=/services/search-engine-optimization>
+                      "SEO"
+              <div .hero-divider-line>
+              <div .top-heading>
+                <a .general-button w-button href=/portfolio-projects>
+                  "View All Projects"
+                <div .hero-sliders-container>
+                  <div .hero-slider-arrows>
+                    <div .hero-slider-swiper-arrow left>
+                      <div .svg swipe-arrow w-embed>
+                    <div .hero-slider-swiper-arrow right>
+                      <div .svg swipe-arrow w-embed>
+              <div .swiper_component home-hero>
+                <div .curser-hover w-embed w-script>
+              <div .swiper swiper8>
+                <div .swiper-wrapper>
+                  <div .swiper-slide home-new-hero>
+                    <div .hero-slide-collection-list-wrapper w-dyn-list>
+                      <div .hero-slider-collection-list w-dyn-items>
+                        <div .hero-slide-item w-dyn-item>
+                          <a .slide-project-link-block w-inline-block href=/project/sayian-drinks>
+                            <div .slide-items-container>
+                              <div .slide-progress-meters w-embed>
+                                <div .story-progress>
+                                  <div .story-bar>
+                                    <div .story-bar-fill>
+                                  <div .story-bar>
+                                    <div .story-bar-fill>
+                                  <div .story-bar>
+                                    <div .story-bar-fill>
+                                  <div .story-bar>
+                                    <div .story-bar-fill>
+                              <div .slide-item-01>
+                                <img .content-image _100 abs-cover src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/69b061650415f391ad52cf03_sayian-drinks-c>
+                              <div .slide-item-02>
+                                <div .code-embed w-embed>
+                                  <div .story-media>
+                                    <div .cf-stream-slot>
+                              <div .slide-item-03>
+                                <div .code-embed w-embed>
+                                  <div .story-media>
+                                    <div .cf-stream-slot>
+                              <div .slide-item-04>
+                                <div .code-embed w-embed>
+                                  <div .story-media>
+                                    <img .story-image src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/6967ac11ac8dce8f528ec976_sayian-drinks-p>
+                              <div .slide-item-05>
+                                <div .code-embed w-embed>
+                                  <div .story-media>
+                                    <img .story-image src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/6967ad2003bf2d212fc33ead_sayian-drinks-d>
+                            <div .project-info-bottom>
+                              <h2 .h2-heading project-name hero>
+                                "Sayian Drinks"
+                  <div .swiper-slide home-new-hero>
+                    <div .hero-slide-collection-list-wrapper w-dyn-list>
+                      <div .hero-slider-collection-list w-dyn-items>
+                        <div .hero-slide-item w-dyn-item>
+                          <a .slide-project-link-block w-inline-block href=/project/snaxx>
+                            <div .slide-items-container>
+                              <div .slide-progress-meters w-embed>
+                                <div .story-progress>
+                                  <div .story-bar>
+                                    <div .story-bar-fill>
+                                  <div .story-bar>
+                                    <div .story-bar-fill>
+                                  <div .story-bar>
+                                    <div .story-bar-fill>
+                                  <div .story-bar>
+                                    <div .story-bar-fill>
+                              <div .slide-item-01>
+                                <img .content-image _100 abs-cover src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/69659885d0056bb7e3ea641c_snaxx-cover.avi>
+                              <div .slide-item-02>
+                                <div .code-embed w-embed>
+                                  <div .story-media>
+                                    <div .cf-stream-slot>
+                              <div .slide-item-03>
+                                <div .code-embed w-embed>
+                                  <div .story-media>
+                                    <img .story-image src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/69664f0493306227dc6857c7_snaxx-product-p>
+                              <div .slide-item-04>
+                                <div .code-embed w-embed>
+                                  <div .story-media>
+                                    <div .cf-stream-slot>
+                              <div .slide-item-05>
+                                <div .code-embed w-embed>
+                                  <div .story-media>
+                                    <div .cf-stream-slot>
+                            <div .project-info-bottom>
+                              <h2 .h2-heading project-name hero>
+                                "Snaxx"
+                  <div .swiper-slide home-new-hero>
+                    <div .hero-slide-collection-list-wrapper w-dyn-list>
+                      <div .hero-slider-collection-list w-dyn-items>
+                        <div .hero-slide-item w-dyn-item>
+                          <a .slide-project-link-block w-inline-block href=/project/maison-salva>
+                            <div .slide-items-container>
+                              <div .slide-progress-meters w-embed>
+                                <div .story-progress>
+                                  <div .story-bar>
+                                    <div .story-bar-fill>
+                                  <div .story-bar>
+                                    <div .story-bar-fill>
+                                  <div .story-bar>
+                                    <div .story-bar-fill>
+                                  <div .story-bar>
+                                    <div .story-bar-fill>
+                              <div .slide-item-01>
+                                <img .content-image _100 abs-cover src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/69ab396292c71dcdd6342e98_maison-salva-po>
+                              <div .slide-item-02>
+                                <div .code-embed w-embed>
+                                  <div .story-media>
+                                    <div .cf-stream-slot>
+                              <div .slide-item-03>
+                                <div .code-embed w-embed>
+                                  <div .story-media>
+                                    <img .story-image src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/6966d66449ec65115ca59c20_maison-salva-ho>
+                              <div .slide-item-04>
+                                <div .code-embed w-embed>
+                                  <div .story-media>
+                                    <div .cf-stream-slot>
+                              <div .slide-item-05>
+                                <div .code-embed w-embed>
+                                  <div .story-media>
+                                    <img .story-image src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/6966dd4fd2adfe0a8ba4e36b_maison-salva-co>
+                            <div .project-info-bottom>
+                              <h2 .h2-heading project-name hero>
+                                "Maison Salva"
+                  <div .swiper-slide home-new-hero>
+                    <div .hero-slide-collection-list-wrapper w-dyn-list>
+                      <div .hero-slider-collection-list w-dyn-items>
+                        <div .hero-slide-item w-dyn-item>
+                          <a .slide-project-link-block w-inline-block href=/project/vendibean>
+                            <div .slide-items-container>
+                              <div .slide-progress-meters w-embed>
+                                <div .story-progress>
+                                  <div .story-bar>
+                                    <div .story-bar-fill>
+                                  <div .story-bar>
+                                    <div .story-bar-fill>
+                                  <div .story-bar>
+                                    <div .story-bar-fill>
+                                  <div .story-bar>
+                                    <div .story-bar-fill>
+                              <div .slide-item-01>
+                                <img .content-image _100 abs-cover src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/69ab39d8f7d77bae7d5d705b_vendibean-cover>
+                              <div .slide-item-02>
+                                <div .code-embed w-embed>
+                                  <div .story-media>
+                                    <div .cf-stream-slot>
+                              <div .slide-item-03>
+                                <div .code-embed w-embed>
+                                  <div .story-media>
+                                    <img .story-image src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/696650ece64a55cf558de060_vendibean-homep>
+                              <div .slide-item-04>
+                                <div .code-embed w-embed>
+                                  <div .story-media>
+                                    <div .cf-stream-slot>
+                              <div .slide-item-05>
+                                <div .code-embed w-embed>
+                                  <div .story-media>
+                                    <div .cf-stream-slot>
+                            <div .project-info-bottom>
+                              <h2 .h2-heading project-name hero>
+                                "Vendibean"
+                  <div .swiper-slide home-new-hero>
+                    <div .hero-slide-collection-list-wrapper w-dyn-list>
+                      <div .hero-slider-collection-list w-dyn-items>
+                        <div .hero-slide-item w-dyn-item>
+                          <a .slide-project-link-block w-inline-block href=/project/perico>
+                            <div .slide-items-container>
+                              <div .slide-progress-meters w-embed>
+                                <div .story-progress>
+                                  <div .story-bar>
+                                    <div .story-bar-fill>
+                                  <div .story-bar>
+                                    <div .story-bar-fill>
+                                  <div .story-bar>
+                                    <div .story-bar-fill>
+                                  <div .story-bar>
+                                    <div .story-bar-fill>
+                              <div .slide-item-01>
+                                <img .content-image _100 abs-cover src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/6968c1ac94b830aa475a0a84_perico-cover.av>
+                              <div .slide-item-02>
+                                <div .code-embed w-embed>
+                                  <div .story-media>
+                                    <div .cf-stream-slot>
+                              <div .slide-item-03>
+                                <div .code-embed w-embed>
+                                  <div .story-media>
+                                    <div .cf-stream-slot>
+                              <div .slide-item-04>
+                                <div .code-embed w-embed>
+                                  <div .story-media>
+                                    <div .cf-stream-slot>
+                              <div .slide-item-05>
+                                <div .code-embed w-embed>
+                                  <div .story-media>
+                                    <img .story-image src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/69664fd6817a634bc935ffa0_perico-product->
+                            <div .project-info-bottom>
+                              <h2 .h2-heading project-name hero>
+                                "Perico"
+        <section .section under-hero-video>
+          <div .container video-home>
+            <div .the-under-hero-embed w-embed w-iframe w-script>
+              <div .projects-hero-video-container>
+                <div .projects-hero-video-shell>
+                  <img .projects-hero-video-poster-mobile src=https://customer-m1xhyr3uvrl6nmzk.cloudflarestream.com/e27239ee260462163fa8407c08fb8097/thumbnails/t>
+                  <div .projects-hero-video-slot>
+                  <a .play-button-mobile-projects-wrapper js-open-projects-video href=#Intro>
+                    <span .play-button-mobile-projects-label>
+                      "Play Showreel"
+                    <span .play-button-mobile-projects-icon>
+      <section .section under-video services>
+        <div .w-layout-blockcontainer container services w-container>
+          <div .content-wrapper-main with-slider-heading>
+            <div .w-layout-grid heading-grid-main flex-left-tablet>
+              <div .grid-block>
+                <h2 .h2-heading>
+                    "What we"
+                  <span .gray>
+                      "offer"
+          <div .top-heading display-none-mobile>
+            <a .general-button black w-button href=/services>
+              "View All Services"
+            <div .hero-sliders-container>
+              <div .hero-slider-arrows>
+                <div .hero-slider-swiper-arrow left on-white>
+                  <div .svg swipe-arrow w-embed>
+                <div .hero-slider-swiper-arrow right on-white>
+                  <div .svg swipe-arrow w-embed>
+          <div .swiper_component home-hero>
+            <div .swiper swiper15>
+              <div .swiper-wrapper cms-projects home-02>
+                <div .swiper-slide services home>
+                  <a .service-card-holder w-inline-block href=/services/website-design>
+                    <div .service-card-container marquee-switch>
+                      <img .content-image _100 switch-01 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696a90d453d4775c351d4554_Frame%204273226>
+                      <img .content-image _100 switch-02 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696a90d35b84556df64e44e2_Frame%204273226>
+                      <img .content-image _100 switch-03 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696a90d3d4598ab2705a74b3_Frame%204273226>
+                      <img .content-image _100 switch-04 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696a90d3d4598ab2705a74b3_Frame%204273226>
+                      <img .content-image _100 switch-05 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696a90d3a448a58eadec2f42_Frame%204273226>
+                    <div .text-box services-info black>
+                      <h3 .h3-heading service-title>
+                        "Web Design"
+                      <div .text-box black>
+                        <p .paragraph zero-margin>
+                          "We specialize in developing interactive, scalable, brand-oriented, and business-"
+                        <div .button-container view-all>
+                          <div .>
+                            "View Service"
+                <div .swiper-slide services home>
+                  <a .service-card-holder w-inline-block href=/services/ecommerce>
+                    <div .service-card-container>
+                      <div .service-image w-embed>
+                        <div .service-image w-embed>
+                          <div .cf-autoplay>
+                            <img .cf-autoplay__poster src=https://customer-m1xhyr3uvrl6nmzk.cloudflarestream.com/9cbd6156d0c3f5a5ba7897182150c421/thumbnails/t>
+                            <div .service-card-container-02 marquee-switch>
+                              <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696d25837e44714f53471042_previewed%20(3)>
+                        <div .text-box services-info black>
+                          <h3 .h3-heading service-title>
+                            "Ecommerce"
+                          <div .text-box black>
+                            <p .paragraph zero-margin>
+                              "Be it static, customized, or dynamic, we follow industry best practices to devel"
+                            <div .button-container view-all>
+                              <div .>
+                                "View Service"
+                    <div .swiper-slide services home>
+                      <a .service-card-holder w-inline-block href=/services/branding>
+                        <div .service-card-container>
+                          <div .service-image w-embed>
+                          <div .cf-autoplay>
+                            <img .cf-autoplay__poster src=https://customer-m1xhyr3uvrl6nmzk.cloudflarestream.com/9987ef9fc30d8c6a1a7ac9b4ff61c230/thumbnails/t>
+                          <div .service-card-container-02 marquee-switch>
+                            <img .content-image _100 switch-01 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696d16feec8a99c84bd597fa_1.avif>
+                        <div .text-box services-info black>
+                          <h3 .h3-heading service-title>
+                            "Visual identity"
+                          <div .text-box black>
+                            <p .paragraph zero-margin>
+                              "From brand strategy, naming, and logo design to guidelines, campaigns, and conte"
+                            <div .button-container view-all>
+                              <div .>
+                                "View Service"
+                    <div .swiper-slide services home>
+                      <a .service-card-holder w-inline-block href=/services/web-development>
+                        <div .service-card-container>
+                          <div .service-image w-embed>
+                          <div .cf-autoplay>
+                            <img .cf-autoplay__poster src=https://customer-m1xhyr3uvrl6nmzk.cloudflarestream.com/e3489c5bf0b08ad15c78682448f302f9/thumbnails/t>
+                          <div .service-card-container-02 marquee-switch>
+                            <img .content-image _100 switch-01 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696d1bcdacb96687681ce16c_Untitled%20desi>
+                        <div .text-box services-info black>
+                          <h3 .h3-heading service-title>
+                            "Web Development"
+                          <div .text-box black>
+                            <p .paragraph zero-margin>
+                              "Be it static, customized, or dynamic, we follow industry best practices to devel"
+                            <div .button-container view-all>
+                              <div .>
+                                "View Service"
+                    <div .swiper-slide services home>
+                      <a .service-card-holder w-inline-block href=/services/search-engine-optimization>
+                        <div .service-card-container-03 no-marquee display-none-desktop>
+                          <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696d19297cacc2dcd94e6d21_Untitled%20desi>
+                        <div .service-card-container display-none-mobile>
+                          <div .service-image w-embed>
+                            <div .cf-autoplay>
+                              <img .cf-autoplay__poster src=https://customer-m1xhyr3uvrl6nmzk.cloudflarestream.com/1e3d34ea3b72e6a6e7ab40824fb3194c/thumbnails/t>
+                        <div .text-box services-info black>
+                          <h3 .h3-heading service-title>
+                            "SEO"
+                          <div .text-box black>
+                            <p .paragraph zero-margin>
+                              "Our carefully crafted SEO strategies are designed to increase visibility within "
+                            <div .button-container view-all>
+                              <div .>
+                                "View Service"
+              <div .top-heading display-none-desktop>
+                <div .hero-sliders-container display-none-desktop>
+                  <div .hero-slider-arrows>
+                    <div .hero-slider-swiper-arrow left on-white>
+                      <div .svg swipe-arrow w-embed>
+                    <div .hero-slider-swiper-arrow right on-white>
+                      <div .svg swipe-arrow w-embed>
+          <section .section white>
+            <div .w-layout-blockcontainer container logos-home w-container>
+              <div .w-layout-grid heading-grid-main flex-left-tablet vertical-left>
+                <div .grid-block>
+                  <h2 .h2-heading>
+                    "Our"
+                    <span .gray>
+                      "trusted"
+                    "brand clients"
+                <div .grid-block auto-right-tablet>
+                  <a .general-button black w-button href=/testimonials>
+                    "View Reviews"
+              <div .w-layout-grid logos-grid>
+                <div .grid-block>
+                  <div .image-wrapper award-site-logo>
+                    <img .content-image brand-partner-logo src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6675d5a5782ba450d7b01142_marley-medical->
+                <div .grid-block>
+                  <div .image-wrapper award-site-logo>
+                    <img .content-image brand-partner-logo src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6675d5a7aee6de3fa8123f22_pms-club-logo.s>
+                <div .grid-block>
+                  <div .image-wrapper award-site-logo>
+                    <img .content-image brand-partner-logo src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6675d5a56edc15549092fa32_dorell-logo.svg>
+                <div .grid-block>
+                  <div .image-wrapper award-site-logo>
+                    <img .content-image brand-partner-logo src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6675d5a5716f5461f7a8593d_ceres-cereal-lo>
+                <div .grid-block>
+                  <div .image-wrapper award-site-logo>
+                    <img .content-image brand-partner-logo src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6675d5a51b1a5e6d6cc8a7ed_hopscotch-girls>
+                <div .grid-block>
+                  <div .image-wrapper award-site-logo>
+                    <img .content-image brand-partner-logo src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6675d4dfaee6de3fa8117538_besnugg-logo.sv>
+                <div .grid-block>
+                  <div .image-wrapper award-site-logo>
+                    <img .content-image brand-partner-logo src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6675d5a48c51cacb66b9dd2f_couple-and-pie->
+                <div .grid-block>
+                  <div .image-wrapper award-site-logo>
+                    <img .content-image brand-partner-logo src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6675d4e11aab29dee458ec66_boxbot-logo.svg>
+                <div .grid-block>
+                  <div .image-wrapper award-site-logo>
+                    <img .content-image brand-partner-logo src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6675d5a40a8224cb8b959ace_newsette-logo.s>
+                <div .grid-block>
+                  <div .image-wrapper award-site-logo>
+                    <img .content-image brand-partner-logo src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6675d5a414252bcb3aba8dfe_one-schema-logo>
+                <div .grid-block display-none-portrait-mobile>
+                  <div .image-wrapper award-site-logo>
+                    <img .content-image brand-partner-logo src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6675d5a3f285321575e7bf4c_suntiva-cbd-log>
+                <div .grid-block display-none-portrait-mobile>
+                  <div .image-wrapper award-site-logo>
+                    <img .content-image brand-partner-logo src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6675d5a3a2b5d828b4d38dce_rolli-shades-lo>
+                <div .grid-block display-none-portrait-mobile>
+                  <div .image-wrapper award-site-logo>
+                    <img .content-image brand-partner-logo src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6675d5a3ba8ef68c0e21c21a_yuno-botanicals>
+                <div .grid-block display-none-portrait-mobile>
+                  <div .image-wrapper award-site-logo>
+                    <img .content-image brand-partner-logo src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6675d5a2f8de2a4afe336a06_sunspoken-logo.>
+                <div .grid-block display-none-portrait-mobile>
+                  <div .image-wrapper award-site-logo>
+                    <img .content-image brand-partner-logo src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6675d4e44c5b68f4dffc531e_4am-logo.svg>
+                <div .grid-block display-none-portrait-mobile>
+                  <div .image-wrapper award-site-logo>
+                    <img .content-image brand-partner-logo src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6675d4e485ba6c797e087041_vendibean-logo.>
+                <div .grid-block display-none-portrait-mobile>
+                  <div .image-wrapper award-site-logo>
+                    <img .content-image brand-partner-logo src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6675d4e4aee6de3fa8117991_gemini-skincare>
+                <div .grid-block display-none-portrait-mobile>
+                  <div .image-wrapper award-site-logo>
+                    <img .content-image brand-partner-logo src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6675d4e42d69660143f91277_doctor-nicks-lo>
+                <div .grid-block display-none-portrait-mobile>
+                  <div .image-wrapper award-site-logo>
+                    <img .content-image brand-partner-logo src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6675d4e2364d04eee2bd5091_alset-auto-logo>
+                <div .grid-block display-none-portrait-mobile>
+                  <div .image-wrapper award-site-logo>
+                    <img .content-image brand-partner-logo src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6675d4e2105cc127040a7901_better-u-logo.s>
+                <div .grid-block display-none-portrait-mobile>
+                  <div .image-wrapper award-site-logo>
+                    <img .content-image brand-partner-logo src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6675d4e0c30e51b98f6f68b3_newland-logo.sv>
+                <div .grid-block display-none-portrait-mobile>
+                  <div .image-wrapper award-site-logo>
+                    <img .content-image brand-partner-logo src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6675d4e2364d04eee2bd4df7_inspir-logo.svg>
+                <div .grid-block display-none-portrait-mobile>
+                  <div .image-wrapper award-site-logo>
+                    <img .content-image brand-partner-logo src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6675d7a0b33e4066a7f8cba5_angle-brewery-l>
+                <div .grid-block display-none-portrait-mobile>
+                  <div .image-wrapper award-site-logo>
+                    <img .content-image brand-partner-logo src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6675d4e1e692c585d5f63b54_global-purusit->
+                <div .grid-block display-none-tablet>
+                  <div .image-wrapper award-site-logo>
+                    <img .content-image brand-partner-logo src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696ac9e8c264b26b4fc73779_mystery-hype-lo>
+              <div .logos-bottom-wrapper display-none-desktop>
+                <div .view-more-logos>
+                  <a .view-more-text-block href=https://silvstudio.webflow.io/testimonials#brand-clients>
+                    "View More"
+          <section .section overflow-hidden>
+            <div .w-layout-blockcontainer container more-work-homepage w-container>
+              <div .content-wrapper-main with-slider-heading no-padding>
+                <div .w-layout-grid heading-grid-main flex-vertical-mobile projects-home>
+                  <div .grid-block>
+                    <h2 .h2-heading>
+                      "Projects by category"
+                  <div .grid-block auto-right-tablet>
+                    <a .general-button white w-button href=/portfolio-projects>
+                      "View All Projects"
+              <div .top-heading projects-slider>
+                <div .projects-tab-menu>
+                  <a .projects-category-link web w-inline-block href=#>
+                    <div .tab-link-inner>
+                      <div .tab-link-title>
+                        "Web"
+                  <a .projects-category-link branding w-inline-block href=#>
+                    <div .tab-link-inner>
+                      <div .tab-link-title>
+                        "Branding"
+                  <a .projects-category-link ecommerce w-inline-block href=#>
+                    <div .tab-link-inner>
+                      <div .tab-link-title>
+                        "Ecommerce"
+                <div .hero-sliders-container display-none-mobile>
+                  <div .hero-slider-arrows>
+                    <div .hero-slider-swiper-arrow left on-white>
+                      <div .svg swipe-arrow w-embed>
+                    <div .hero-slider-swiper-arrow right on-white>
+                      <div .svg swipe-arrow w-embed>
+              <div .swiper_component home-hero>
+                <div .swiper swiper12 web w-dyn-list>
+                  <div .swiper-wrapper w-dyn-items>
+                    <div .swiper-slide projects-02 w-dyn-item>
+                      <div .proj-cats>
+                        <div .w-dyn-list>
+                          <div .w-dyn-items>
+                            <div .w-dyn-item>
+                              <div .>
+                                "branding"
+                            <div .w-dyn-item>
+                              <div .>
+                                "ecommerce"
+                            <div .w-dyn-item>
+                              <div .>
+                                "web"
+                      <div .proj-cats>
+                        <div .w-dyn-list>
+                          <div .w-dyn-items>
+                            <div .w-dyn-item>
+                              <div .>
+                                "branding"
+                            <div .w-dyn-item>
+                              <div .>
+                                "ecommerce"
+                            <div .w-dyn-item>
+                              <div .>
+                                "web"
+                      <a .project-card-holder w-inline-block href=/project/snaxx>
+                        <div .project-card-container>
+                          <div .view-more-projects-wrapper>
+                            <div .view-more-projects w-dyn-bind-empty>
+                          <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/696ad1618421aa7f1d67a066_snaxx-cover.avi>
+                        <div .text-box home-projects-info>
+                          <h3 .h3-heading project-name>
+                            "Snaxx"
+                    <div .swiper-slide projects-02 w-dyn-item>
+                      <div .proj-cats>
+                        <div .w-dyn-list>
+                          <div .w-dyn-items>
+                            <div .w-dyn-item>
+                              <div .>
+                                "ecommerce"
+                            <div .w-dyn-item>
+                              <div .>
+                                "web"
+                      <div .proj-cats>
+                        <div .w-dyn-list>
+                          <div .w-dyn-items>
+                            <div .w-dyn-item>
+                              <div .>
+                                "ecommerce"
+                            <div .w-dyn-item>
+                              <div .>
+                                "web"
+                      <a .project-card-holder w-inline-block href=/project/perico>
+                        <div .project-card-container>
+                          <div .view-more-projects-wrapper>
+                            <div .view-more-projects w-dyn-bind-empty>
+                          <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/6968c1ac94b830aa475a0a84_perico-cover.av>
+                        <div .text-box home-projects-info>
+                          <h3 .h3-heading project-name>
+                            "Perico"
+                    <div .swiper-slide projects-02 w-dyn-item>
+                      <div .proj-cats>
+                        <div .w-dyn-list>
+                          <div .w-dyn-items>
+                            <div .w-dyn-item>
+                              <div .>
+                                "branding"
+                            <div .w-dyn-item>
+                              <div .>
+                                "web"
+                      <div .proj-cats>
+                        <div .w-dyn-list>
+                          <div .w-dyn-items>
+                            <div .w-dyn-item>
+                              <div .>
+                                "branding"
+                            <div .w-dyn-item>
+                              <div .>
+                                "web"
+                      <a .project-card-holder w-inline-block href=/project/silber-ai>
+                        <div .project-card-container>
+                          <div .view-more-projects-wrapper>
+                            <div .view-more-projects w-dyn-bind-empty>
+                          <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/696ad1efbf01b77974889d92_silber-ai-cover>
+                        <div .text-box home-projects-info>
+                          <h3 .h3-heading project-name>
+                            "Silber AI"
+                    <div .swiper-slide projects-02 w-dyn-item>
+                      <div .proj-cats>
+                        <div .w-dyn-list>
+                          <div .w-dyn-items>
+                            <div .w-dyn-item>
+                              <div .>
+                                "branding"
+                            <div .w-dyn-item>
+                              <div .>
+                                "ecommerce"
+                            <div .w-dyn-item>
+                              <div .>
+                                "web"
+                      <div .proj-cats>
+                        <div .w-dyn-list>
+                          <div .w-dyn-items>
+                            <div .w-dyn-item>
+                              <div .>
+                                "branding"
+                            <div .w-dyn-item>
+                              <div .>
+                                "ecommerce"
+                            <div .w-dyn-item>
+                              <div .>
+                                "web"
+                      <a .project-card-holder w-inline-block href=/project/sayian-drinks>
+                        <div .project-card-container>
+                          <div .view-more-projects-wrapper>
+                            <div .view-more-projects w-dyn-bind-empty>
+                          <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/6967c04a4a8eabdf35955dfc_sayian-drinks-c>
+                        <div .text-box home-projects-info>
+                          <h3 .h3-heading project-name>
+                            "Sayian Drinks"
+                    <div .swiper-slide projects-02 w-dyn-item>
+                      <div .proj-cats>
+                        <div .w-dyn-list>
+                          <div .w-dyn-items>
+                            <div .w-dyn-item>
+                              <div .>
+                                "web"
+                            <div .w-dyn-item>
+                              <div .>
+                                "ecommerce"
+                            <div .w-dyn-item>
+                              <div .>
+                                "branding"
+                      <div .proj-cats>
+                        <div .w-dyn-list>
+                          <div .w-dyn-items>
+                            <div .w-dyn-item>
+                              <div .>
+                                "web"
+                            <div .w-dyn-item>
+                              <div .>
+                                "ecommerce"
+                            <div .w-dyn-item>
+                              <div .>
+                                "branding"
+                      <a .project-card-holder w-inline-block href=/project/tigris-drinks>
+                        <div .project-card-container>
+                          <div .view-more-projects-wrapper>
+                            <div .view-more-projects w-dyn-bind-empty>
+                          <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/696a9d74039b137a481b143d_68c1eaae78db900>
+                        <div .text-box home-projects-info>
+                          <h3 .h3-heading project-name>
+                            "Tigris Drinks"
+                    <div .swiper-slide projects-02 w-dyn-item>
+                      <div .proj-cats>
+                        <div .w-dyn-list>
+                          <div .w-dyn-items>
+                            <div .w-dyn-item>
+                              <div .>
+                                "ecommerce"
+                            <div .w-dyn-item>
+                              <div .>
+                                "web"
+                      <div .proj-cats>
+                        <div .w-dyn-list>
+                          <div .w-dyn-items>
+                            <div .w-dyn-item>
+                              <div .>
+                                "ecommerce"
+                            <div .w-dyn-item>
+                              <div .>
+                                "web"
+                      <a .project-card-holder w-inline-block href=/project/mystery-hype>
+                        <div .project-card-container>
+                          <div .view-more-projects-wrapper>
+                            <div .view-more-projects w-dyn-bind-empty>
+                          <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/696a9d7297a96aadee8f5bbf_68b96f5ca888489>
+                        <div .text-box home-projects-info>
+                          <h3 .h3-heading project-name>
+                            "Mystery Hype"
+                    <div .swiper-slide projects-02 w-dyn-item>
+                      <div .proj-cats>
+                        <div .w-dyn-list>
+                          <div .w-dyn-items>
+                            <div .w-dyn-item>
+                              <div .>
+                                "branding"
+                            <div .w-dyn-item>
+                              <div .>
+                                "web"
+                            <div .w-dyn-item>
+                              <div .>
+                                "seo"
+                      <div .proj-cats>
+                        <div .w-dyn-list>
+                          <div .w-dyn-items>
+                            <div .w-dyn-item>
+                              <div .>
+                                "branding"
+                            <div .w-dyn-item>
+                              <div .>
+                                "web"
+                            <div .w-dyn-item>
+                              <div .>
+                                "seo"
+                      <a .project-card-holder w-inline-block href=/project/gray-labs>
+                        <div .project-card-container>
+                          <div .view-more-projects-wrapper>
+                            <div .view-more-projects w-dyn-bind-empty>
+                          <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/696a9d70e3b7a7ebffced2a6_68c02e52e877a02>
+                        <div .text-box home-projects-info>
+                          <h3 .h3-heading project-name>
+                            "Gray Labs"
+                    <div .swiper-slide projects-02 w-dyn-item>
+                      <div .proj-cats>
+                        <div .w-dyn-list>
+                          <div .w-dyn-items>
+                            <div .w-dyn-item>
+                              <div .>
+                                "web"
+                            <div .w-dyn-item>
+                              <div .>
+                                "branding"
+                            <div .w-dyn-item>
+                              <div .>
+                                "seo"
+                      <div .proj-cats>
+                        <div .w-dyn-list>
+                          <div .w-dyn-items>
+                            <div .w-dyn-item>
+                              <div .>
+                                "web"
+                            <div .w-dyn-item>
+                              <div .>
+                                "branding"
+                            <div .w-dyn-item>
+                              <div .>
+                                "seo"
+                      <a .project-card-holder w-inline-block href=/project/cyclone-studio>
+                        <div .project-card-container>
+                          <div .view-more-projects-wrapper>
+                            <div .view-more-projects w-dyn-bind-empty>
+                          <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/696a9d6f5c5d439f81fa3d53_68bf644eb4df5f9>
+                        <div .text-box home-projects-info>
+                          <h3 .h3-heading project-name>
+                            "Cyclone Studio"
+                    <div .swiper-slide projects-02 w-dyn-item>
+                      <div .proj-cats>
+                        <div .w-dyn-list>
+                          <div .w-dyn-items>
+                            <div .w-dyn-item>
+                              <div .>
+                                "ecommerce"
+                            <div .w-dyn-item>
+                              <div .>
+                                "branding"
+                            <div .w-dyn-item>
+                              <div .>
+                                "web"
+                      <div .proj-cats>
+                        <div .w-dyn-list>
+                          <div .w-dyn-items>
+                            <div .w-dyn-item>
+                              <div .>
+                                "ecommerce"
+                            <div .w-dyn-item>
+                              <div .>
+                                "branding"
+                            <div .w-dyn-item>
+                              <div .>
+                                "web"
+                      <a .project-card-holder w-inline-block href=/project/whisper-brush>
+                        <div .project-card-container>
+                          <div .view-more-projects-wrapper>
+                            <div .view-more-projects w-dyn-bind-empty>
+                          <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/696a9d7443d2acf4ff4fb107_68c0ba53168a1b7>
+                        <div .text-box home-projects-info>
+                          <h3 .h3-heading project-name>
+                            "Whisper Brush"
+                    <div .swiper-slide projects-02 w-dyn-item>
+                      <div .proj-cats>
+                        <div .w-dyn-list>
+                          <div .w-dyn-items>
+                            <div .w-dyn-item>
+                              <div .>
+                                "web"
+                            <div .w-dyn-item>
+                              <div .>
+                                "ecommerce"
+                            <div .w-dyn-item>
+                              <div .>
+                                "branding"
+                      <div .proj-cats>
+                        <div .w-dyn-list>
+                          <div .w-dyn-items>
+                            <div .w-dyn-item>
+                              <div .>
+                                "web"
+                            <div .w-dyn-item>
+                              <div .>
+                                "ecommerce"
+                            <div .w-dyn-item>
+                              <div .>
+                                "branding"
+                      <a .project-card-holder w-inline-block href=/project/rayleighs-burgers>
+                        <div .project-card-container>
+                          <div .view-more-projects-wrapper>
+                            <div .view-more-projects w-dyn-bind-empty>
+                          <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/696a9d738a4e0cbf09bb29ce_68b96d24ea385a9>
+                        <div .text-box home-projects-info>
+                          <h3 .h3-heading project-name>
+                            "Rayleigh's Burgers"
+                    <div .swiper-slide projects-02 w-dyn-item>
+                      <div .proj-cats>
+                        <div .w-dyn-list>
+                          <div .w-dyn-items>
+                            <div .w-dyn-item>
+                              <div .>
+                                "web"
+                            <div .w-dyn-item>
+                              <div .>
+                                "ecommerce"
+                      <div .proj-cats>
+                        <div .w-dyn-list>
+                          <div .w-dyn-items>
+                            <div .w-dyn-item>
+                              <div .>
+                                "web"
+                            <div .w-dyn-item>
+                              <div .>
+                                "ecommerce"
+                      <a .project-card-holder w-inline-block href=/project/olipop-brand>
+                        <div .project-card-container>
+                          <div .view-more-projects-wrapper>
+                            <div .view-more-projects w-dyn-bind-empty>
+                          <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/696a9d733335413c6bd9861f_68b96f4fecfa4c1>
+                        <div .text-box home-projects-info>
+                          <h3 .h3-heading project-name>
+                            "Olipop"
+                    <div .swiper-slide projects-02 w-dyn-item>
+                      <div .proj-cats>
+                        <div .w-dyn-list>
+                          <div .w-dyn-items>
+                            <div .w-dyn-item>
+                              <div .>
+                                "web"
+                            <div .w-dyn-item>
+                              <div .>
+                                "branding"
+                            <div .w-dyn-item>
+                              <div .>
+                                "ecommerce"
+                            <div .w-dyn-item>
+                              <div .>
+                                "seo"
+                      <div .proj-cats>
+                        <div .w-dyn-list>
+                          <div .w-dyn-items>
+                            <div .w-dyn-item>
+                              <div .>
+                                "web"
+                            <div .w-dyn-item>
+                              <div .>
+                                "branding"
+                            <div .w-dyn-item>
+                              <div .>
+                                "ecommerce"
+                            <div .w-dyn-item>
+                              <div .>
+                                "seo"
+                      <a .project-card-holder w-inline-block href=/project/loop-ring>
+                        <div .project-card-container>
+                          <div .view-more-projects-wrapper>
+                            <div .view-more-projects w-dyn-bind-empty>
+                          <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/696a9d71b48e459dd614fd9f_68c09bf869aec99>
+                        <div .text-box home-projects-info>
+                          <h3 .h3-heading project-name>
+                            "Loop Ring"
+                    <div .swiper-slide projects-02 w-dyn-item>
+                      <div .proj-cats>
+                        <div .w-dyn-list>
+                          <div .w-dyn-items>
+                            <div .w-dyn-item>
+                              <div .>
+                                "web"
+                            <div .w-dyn-item>
+                              <div .>
+                                "branding"
+                            <div .w-dyn-item>
+                              <div .>
+                                "ecommerce"
+                      <div .proj-cats>
+                        <div .w-dyn-list>
+                          <div .w-dyn-items>
+                            <div .w-dyn-item>
+                              <div .>
+                                "web"
+                            <div .w-dyn-item>
+                              <div .>
+                                "branding"
+                            <div .w-dyn-item>
+                              <div .>
+                                "ecommerce"
+                      <a .project-card-holder w-inline-block href=/project/kaskade-dental>
+                        <div .project-card-container>
+                          <div .view-more-projects-wrapper>
+                            <div .view-more-projects w-dyn-bind-empty>
+                          <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/696a9d70c7f90417cef83b9d_68b96d1efb567c6>
+                        <div .text-box home-projects-info>
+                          <h3 .h3-heading project-name>
+                            "Kaskade Dental"
+                    <div .swiper-slide projects-02 w-dyn-item>
+                      <div .proj-cats>
+                        <div .w-dyn-list>
+                          <div .w-dyn-items>
+                            <div .w-dyn-item>
+                              <div .>
+                                "web"
+                            <div .w-dyn-item>
+                              <div .>
+                                "branding"
+                            <div .w-dyn-item>
+                              <div .>
+                                "seo"
+                      <div .proj-cats>
+                        <div .w-dyn-list>
+                          <div .w-dyn-items>
+                            <div .w-dyn-item>
+                              <div .>
+                                "web"
+                            <div .w-dyn-item>
+                              <div .>
+                                "branding"
+                            <div .w-dyn-item>
+                              <div .>
+                                "seo"
+                      <a .project-card-holder w-inline-block href=/project/constint-app>
+                        <div .project-card-container>
+                          <div .view-more-projects-wrapper>
+                            <div .view-more-projects w-dyn-bind-empty>
+                          <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/696a9d6fb3a3f9780f5ec342_68b96d012cac005>
+                        <div .text-box home-projects-info>
+                          <h3 .h3-heading project-name>
+                            "Constint App"
+                    <div .swiper-slide projects-02 w-dyn-item>
+                      <div .proj-cats>
+                        <div .w-dyn-list>
+                          <div .w-dyn-items>
+                            <div .w-dyn-item>
+                              <div .>
+                                "web"
+                            <div .w-dyn-item>
+                              <div .>
+                                "branding"
+                      <div .proj-cats>
+                        <div .w-dyn-list>
+                          <div .w-dyn-items>
+                            <div .w-dyn-item>
+                              <div .>
+                                "web"
+                            <div .w-dyn-item>
+                              <div .>
+                                "branding"
+                      <a .project-card-holder w-inline-block href=/project/genix-medical>
+                        <div .project-card-container>
+                          <div .view-more-projects-wrapper>
+                            <div .view-more-projects w-dyn-bind-empty>
+                          <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/696a9d6f73d80defeda61a0f_68b96f11089ca7d>
+                        <div .text-box home-projects-info>
+                          <h3 .h3-heading project-name>
+                            "Genix Medical"
+                    <div .swiper-slide projects-02 w-dyn-item>
+                      <div .proj-cats>
+                        <div .w-dyn-list>
+                          <div .w-dyn-items>
+                            <div .w-dyn-item>
+                              <div .>
+                                "branding"
+                            <div .w-dyn-item>
+                              <div .>
+                                "ecommerce"
+                            <div .w-dyn-item>
+                              <div .>
+                                "web"
+                      <div .proj-cats>
+                        <div .w-dyn-list>
+                          <div .w-dyn-items>
+                            <div .w-dyn-item>
+                              <div .>
+                                "branding"
+                            <div .w-dyn-item>
+                              <div .>
+                                "ecommerce"
+                            <div .w-dyn-item>
+                              <div .>
+                                "web"
+                      <a .project-card-holder w-inline-block href=/project/more-projects>
+                        <div .project-card-container>
+                          <div .view-more-projects-wrapper>
+                            <div .view-more-projects>
+                              "View More Projects"
+                          <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470f9/69aadcea0dd85b7ae83b1439_white-box.png>
+                        <div .text-box home-projects-info>
+                          <h3 .h3-heading project-name>
+                            "More Projects"
+              <div .hero-sliders-container display-none-desktop>
+                <div .hero-slider-arrows>
+                  <div .hero-slider-swiper-arrow left on-white>
+                    <div .svg swipe-arrow w-embed>
+                  <div .hero-slider-swiper-arrow right on-white>
+                    <div .svg swipe-arrow w-embed>
+          <section .section>
+            <div .w-layout-blockcontainer container more-work-homepage w-container>
+              <div .content-wrapper-main with-slider-heading no-padding>
+                <div .w-layout-grid heading-grid-main flex-left-tablet vertical-left>
+                  <div .grid-block>
+                    <h2 .h2-heading>
+                      "Client relationships and industry"
+                      <span .gray>
+                        "recognition"
+                  <div .grid-block auto-right-tablet>
+                    <a .general-button white w-button href=/testimonials>
+                      "View All Reviews"
+              <div .review-bento>
+                <div .bento-column _01>
+                  <div .swiper swiper-reviews>
+                    <div .pagination-circles-wrapper>
+                      <div .page-circle _01>
+                      <div .page-circle _02>
+                      <div .page-circle _03>
+                      <div .page-circle _04>
+                      <div .page-circle _05>
+                      <div .page-circle _06>
+                    <div .swiper-wrapper reviews>
+                      <div .swiper-slide review-slider>
+                        <div .review-swiper-top>
+                          <div .review-quote-text-block>
+                            ""We had the pleasure of working with Silv Studio for the last 2 websites we've b"
+                        <div .review-swiper-bottom>
+                          <div .reviewer-image-wrapper>
+                            <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696b9d3892109d16e32f3f78_teal-cooper-ven>
+                          <div .reviewer-info-wrapper>
+                            <div .reviewer-person-name>
+                              "Teal Cooper"
+                            <div .reviewer-title>
+                              "Co-Founder, Vendibean"
+                      <div .swiper-slide review-slider>
+                        <div .review-swiper-top>
+                          <div .review-quote-text-block>
+                            ""I was very satisfied with my decision to work with Silv Studio on building the "
+                        <div .review-swiper-bottom>
+                          <div .reviewer-image-wrapper>
+                            <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696b9e825f4b23e3f8a3c4f9_chris-hughes-ge>
+                          <div .reviewer-info-wrapper>
+                            <div .reviewer-person-name>
+                              "Chris Hughes"
+                            <div .reviewer-title>
+                              "Founder, Gemini Skincare"
+                      <div .swiper-slide review-slider>
+                        <div .review-swiper-top>
+                          <div .review-quote-text-block>
+                            ""Nothing but good things to say about Silv and his team, they were patient and s"
+                        <div .review-swiper-bottom>
+                          <div .reviewer-image-wrapper>
+                            <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696ba1993bdd4fa032c6c20c_shawn-thomas-el>
+                          <div .reviewer-info-wrapper>
+                            <div .reviewer-person-name>
+                              "Shawn Thomas"
+                            <div .reviewer-title>
+                              "Co-Founder, Elevate Impact"
+                      <div .swiper-slide review-slider>
+                        <div .review-swiper-top>
+                          <div .review-quote-text-block>
+                            ""I had a fantastic experience redesigning my website with Silv Studio. Jon did a"
+                        <div .review-swiper-bottom>
+                          <div .reviewer-image-wrapper>
+                            <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696ba3003377ded423236ce0_samuel-marsh-gl>
+                          <div .reviewer-info-wrapper>
+                            <div .reviewer-person-name>
+                              "Samuel Marsh"
+                            <div .reviewer-title>
+                              "Director of E-Commerce, Global Pursuit"
+                      <div .swiper-slide review-slider>
+                        <div .review-swiper-top>
+                          <div .review-quote-text-block>
+                            ""I came to Jon with a vision that was technically complex and outside my own exp"
+                        <div .review-swiper-bottom>
+                          <div .reviewer-image-wrapper>
+                            <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696ba1f83472b50926cb0c6a_angelle-frett-s>
+                          <div .reviewer-info-wrapper>
+                            <div .reviewer-person-name>
+                              "Angelle Frett"
+                            <div .reviewer-title>
+                              "Founder, Stowit"
+                      <div .swiper-slide review-slider>
+                        <div .review-swiper-top>
+                          <div .review-quote-text-block>
+                            ""I came to Jon with a vision that was technically complex and outside my own exp"
+                        <div .review-swiper-bottom>
+                          <div .reviewer-image-wrapper>
+                            <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696ba449b7a843884e0cf9f7_justin-mcdonald>
+                          <div .reviewer-info-wrapper>
+                            <div .reviewer-person-name>
+                              "Justin Mcdonald"
+                            <div .reviewer-title>
+                              "Head of Operations, Boxbot"
+                    <div .curser-hover w-embed w-script>
+              <div .bento-column _02>
+                <div .benefit-inner-box _01>
+                  <div .content-wrapper awards>
+                    <div .awards-text>
+                      <span .mid-gray-text>
+                        "21+"
+                      "Awards"
+                    <div .image-wrapper awards-ribbon>
+                      <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696bb6393e83eb7ab978f89e_awards-ribbon.s>
+                  <a .general-button white awards-block w-button href=/awards>
+                    "View awards"
+                <div .benefit-inner-box _02>
+                  <div .content-wrapper recent-award>
+                    <div .content-block recent-01>
+                      <h3 .h3-heading recent-awards>
+                        "Most recent award"
+                      <div .text-block recent-award-sub>
+                        "Site of the day"
+                    <div .content-block recent-02>
+                      <div .image-wrapper recent-award-logo>
+                        <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/69ac28410e53224a86654842_snaxx-logo.svg>
+                      <div .image-wrapper award-giver>
+                        <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696bb8ddd28ce4d601332c0b_css-winner-logo>
+                    <div .content-block recent-03>
+                      <a .general-button white w-button href=https://www.csswinner.com/details/snaxx-chips/19106>
+                        "View Site"
+            <div .w-layout-grid content-grid awards-outer>
+              <div .grid-block>
+                <div .text-box awards-eyebrow>
+                  <h2 .awards-text-block eyebrow>
+                    "Awards & Recognition"
+              <div .grid-block>
+                <div .w-layout-grid award-blocks-grid>
+                  <div .grid-block>
+                    <div .awards-block-wrapper>
+                      <div .text-box awards-block-middle>
+                        <div .image-wrapper awards-logo>
+                          <img .content-image awards-logo src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6675d5a72a45a680d1d65c3c_awwwards-logo.s>
+                        <div .text-box awards-top-text>
+                          <div .awards-text-block awards-title number>
+                            "[5]"
+                        <div .text-box awards-bottom-text>
+                          <div .awards-text-block awards-title>
+                            "Honorable Mention award (5)"
+                  <div .grid-block>
+                    <div .awards-block-wrapper>
+                      <div .text-box awards-block-middle>
+                        <div .image-wrapper awards-logo>
+                          <img .content-image awards-logo src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6675d5a7c096f088429167ac_css-winner-logo>
+                        <div .text-box awards-top-text>
+                          <div .awards-text-block awards-title number>
+                            "[6]"
+                        <div .text-box awards-bottom-text>
+                          <div .awards-text-block awards-title>
+                            "Star award & Site of the Day (7)"
+                  <div .grid-block>
+                    <div .awards-block-wrapper>
+                      <div .text-box awards-block-middle>
+                        <div .image-wrapper awards-logo>
+                          <img .content-image awards-logo src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6675d5a5f71c672a16d85c33_webflow-logo.sv>
+                        <div .text-box awards-top-text>
+                          <div .awards-text-block awards-title number>
+                            "[5]"
+                        <div .text-box awards-bottom-text>
+                          <div .awards-text-block awards-title>
+                            "Made in Webflow Selection (8)"
+                  <div .grid-block>
+                    <div .awards-block-wrapper>
+                      <div .text-box awards-block-middle>
+                        <div .image-wrapper awards-logo lapa>
+                          <img .content-image awards-logo smaller src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/696be38025bc572725b7cbb4_lapa-logo.svg>
+                        <div .text-box awards-top-text>
+                          <div .awards-text-block awards-title number>
+                            "[1]"
+                        <div .text-box awards-bottom-text>
+                          <div .awards-text-block awards-title>
+                            "Site Selection (1)"
+                  <div .grid-block>
+                    <div .awards-block-wrapper>
+                      <div .text-box awards-block-middle>
+                        <div .image-wrapper awards-logo>
+                          <img .content-image awards-logo src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6675d5a52a45a680d1d65b69_cssnectar-logo.>
+                        <div .text-box awards-top-text>
+                          <div .awards-text-block awards-title number>
+                            "[2]"
+                        <div .text-box awards-bottom-text>
+                          <div .awards-text-block awards-title>
+                            "Site of the day (2)"
+                  <div .grid-block>
+                    <div .awards-block-wrapper>
+                      <div .text-box awards-block-middle>
+                        <div .image-wrapper awards-logo>
+                          <img .content-image awards-logo src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6675d5a5b594cfbfc6c903dc_orpetron-logo.s>
+                        <div .text-box awards-top-text>
+                          <div .awards-text-block awards-title number>
+                            "[2]"
+                        <div .text-box awards-bottom-text>
+                          <div .awards-text-block awards-title>
+                            "Site Selection (2)"
+                <div .awards-accordion-container>
+                  <div .slide-up-animation-01>
+                    <div .awards-accordion-item w-dropdown>
+                      <div .awards-accordion-toggle w-dropdown-toggle>
+                        <div .faq-title-wrapper>
+                          <div .awards-accordion-title>
+                            "Awwwards"
+                          <div .faq-icon-wrap>
+                            <img .accordion-icon services src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6676c9a48d44ac437f2d39f7_chevron.svg>
+                      <nav .accordion-content _02 w-dropdown-list>
+                        <div .awards-accordion-tab>
+                          <div .w-layout-grid inner-awards-accordion-grid>
+                            <div .grid-block>
+                              <div .text-box>
+                                <div .awards-accordion-sub-title>
+                                  "Silvs Peanut Butter"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <div .text-box>
+                                <div .text-block light-gray small>
+                                  "Honorable Mention"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <a .testimonial-button w-inline-block href=https://getsilvs.webflow.io/>
+                                <div .>
+                                  "Visit Website"
+                        <div .awards-accordion-tab>
+                          <div .w-layout-grid inner-awards-accordion-grid>
+                            <div .grid-block>
+                              <div .text-box>
+                                <div .awards-accordion-sub-title>
+                                  "Gambit Resort"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <div .text-box>
+                                <div .text-block light-gray small>
+                                  "Honorable Mention"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <a .testimonial-button w-inline-block href=https://gambitresort.webflow.io/>
+                                <div .>
+                                  "Visit Website"
+                        <div .awards-accordion-tab>
+                          <div .w-layout-grid inner-awards-accordion-grid>
+                            <div .grid-block>
+                              <div .text-box>
+                                <div .awards-accordion-sub-title>
+                                  "Angle Brewery"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <div .text-box>
+                                <div .text-block light-gray small>
+                                  "Honorable Mention"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <a .testimonial-button w-inline-block href=https://anglebrewerycompany.webflow.io/>
+                                <div .>
+                                  "Visit Website"
+                        <div .awards-accordion-tab>
+                          <div .w-layout-grid inner-awards-accordion-grid>
+                            <div .grid-block>
+                              <div .text-box>
+                                <div .awards-accordion-sub-title>
+                                  "Silv Studio"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <div .text-box>
+                                <div .text-block light-gray small>
+                                  "Honorable Mention"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <a .testimonial-button w-inline-block href=#>
+                                <div .>
+                                  "Visit Website"
+                        <div .awards-accordion-tab>
+                          <div .w-layout-grid inner-awards-accordion-grid>
+                            <div .grid-block>
+                              <div .text-box>
+                                <div .awards-accordion-sub-title>
+                                  "Gemini Skincare"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <div .text-box>
+                                <div .text-block light-gray small>
+                                  "Honorable Mention"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <a .testimonial-button w-inline-block href=https://gemini-skincare-ecom.webflow.io/>
+                                <div .>
+                                  "Visit Website"
+                  <div .slide-up-animation-01>
+                    <div .awards-accordion-item w-dropdown>
+                      <div .awards-accordion-toggle w-dropdown-toggle>
+                        <div .faq-title-wrapper>
+                          <div .awards-accordion-title>
+                            "CSS Winner"
+                          <div .faq-icon-wrap>
+                            <img .accordion-icon services src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6676c9a48d44ac437f2d39f7_chevron.svg>
+                      <nav .accordion-content _02 w-dropdown-list>
+                        <div .awards-accordion-tab>
+                          <div .w-layout-grid inner-awards-accordion-grid>
+                            <div .grid-block>
+                              <div .text-box>
+                                <div .awards-accordion-sub-title>
+                                  "Silvs Peanut Butter"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <div .text-box>
+                                <div .text-block light-gray small>
+                                  "Star Selection"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <a .testimonial-button w-inline-block href=https://getsilvs.webflow.io/>
+                                <div .>
+                                  "Visit Website"
+                        <div .awards-accordion-tab>
+                          <div .w-layout-grid inner-awards-accordion-grid>
+                            <div .grid-block>
+                              <div .text-box>
+                                <div .awards-accordion-sub-title>
+                                  "Gambit Resort"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <div .text-box>
+                                <div .text-block light-gray small>
+                                  "Star Selection"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <a .testimonial-button w-inline-block href=https://gambitresort.webflow.io/>
+                                <div .>
+                                  "Visit Website"
+                        <div .awards-accordion-tab>
+                          <div .w-layout-grid inner-awards-accordion-grid>
+                            <div .grid-block>
+                              <div .text-box>
+                                <div .awards-accordion-sub-title>
+                                  "Angle Brewery"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <div .text-box>
+                                <div .text-block light-gray small>
+                                  "Star Selection"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <a .testimonial-button w-inline-block href=https://anglebrewerycompany.webflow.io/>
+                                <div .>
+                                  "Visit Website"
+                        <div .awards-accordion-tab>
+                          <div .w-layout-grid inner-awards-accordion-grid>
+                            <div .grid-block>
+                              <div .text-box>
+                                <div .awards-accordion-sub-title>
+                                  "MZ Banking"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <div .text-box>
+                                <div .text-block light-gray small>
+                                  "Star Selection"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <a .testimonial-button w-inline-block href=https://mzbanking.webflow.io/>
+                                <div .>
+                                  "Visit Website"
+                        <div .awards-accordion-tab>
+                          <div .w-layout-grid inner-awards-accordion-grid>
+                            <div .grid-block>
+                              <div .text-box>
+                                <div .awards-accordion-sub-title>
+                                  "Zura Banking"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <div .text-box>
+                                <div .text-block light-gray small>
+                                  "Star Selection"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <a .testimonial-button w-inline-block href=https://zurabanking.webflow.io/home/home-01>
+                                <div .>
+                                  "Visit Website"
+                        <div .awards-accordion-tab>
+                          <div .w-layout-grid inner-awards-accordion-grid>
+                            <div .grid-block>
+                              <div .text-box>
+                                <div .awards-accordion-sub-title>
+                                  "Sayian Drinks"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <div .text-box>
+                                <div .text-block light-gray small>
+                                  "Star Selection"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <a .testimonial-button w-inline-block href=https://sayian-drinks.webflow.io/homepage/home-01>
+                                <div .>
+                                  "Visit Website"
+                        <div .awards-accordion-tab>
+                          <div .w-layout-grid inner-awards-accordion-grid>
+                            <div .grid-block>
+                              <div .text-box>
+                                <div .awards-accordion-sub-title>
+                                  "Perico Energy"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <div .text-box>
+                                <div .text-block light-gray small>
+                                  "Site of the day"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <a .testimonial-button w-inline-block href=https://pericoenergydrinks.webflow.io/>
+                                <div .>
+                                  "Visit Website"
+                          <div .w-layout-grid inner-awards-accordion-grid>
+                            <div .grid-block>
+                              <div .text-box>
+                                <div .awards-accordion-sub-title>
+                                  "Snaxx Foods"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <div .text-box>
+                                <div .text-block light-gray small>
+                                  "Site of the day"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <a .testimonial-button w-inline-block href=https://www.csswinner.com/details/snaxx-chips/19106>
+                                <div .>
+                                  "Visit Website"
+                  <div .slide-up-animation-03>
+                    <div .awards-accordion-item w-dropdown>
+                      <div .awards-accordion-toggle w-dropdown-toggle>
+                        <div .faq-title-wrapper>
+                          <div .awards-accordion-title>
+                            "Made in Webflow"
+                          <div .faq-icon-wrap>
+                            <img .accordion-icon services src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6676c9a48d44ac437f2d39f7_chevron.svg>
+                      <nav .accordion-content _02 w-dropdown-list>
+                        <div .awards-accordion-tab>
+                          <div .w-layout-grid inner-awards-accordion-grid>
+                            <div .grid-block>
+                              <div .text-box>
+                                <div .awards-accordion-sub-title>
+                                  "Goodroot Pizza"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <div .text-box>
+                                <div .text-block light-gray small>
+                                  "Site Selection"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <a .testimonial-button w-inline-block href=https://goodrootpizza.webflow.io/>
+                                <div .>
+                                  "Visit Website"
+                        <div .awards-accordion-tab>
+                          <div .w-layout-grid inner-awards-accordion-grid>
+                            <div .grid-block>
+                              <div .text-box>
+                                <div .awards-accordion-sub-title>
+                                  "Rogue & Rosy"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <div .text-box>
+                                <div .text-block light-gray small>
+                                  "Site Selection"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <a .testimonial-button w-inline-block href=https://rogue-rosy.webflow.io/>
+                                <div .>
+                                  "Visit Website"
+                        <div .awards-accordion-tab>
+                          <div .w-layout-grid inner-awards-accordion-grid>
+                            <div .grid-block>
+                              <div .text-box>
+                                <div .awards-accordion-sub-title>
+                                  "Wildfox Squad NFT Site Remake"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <div .text-box>
+                                <div .text-block light-gray small>
+                                  "Site Selection"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <a .testimonial-button w-inline-block href=https://wildfox-remake.webflow.io/>
+                                <div .>
+                                  "Visit Website"
+                        <div .awards-accordion-tab>
+                          <div .w-layout-grid inner-awards-accordion-grid>
+                            <div .grid-block>
+                              <div .text-box>
+                                <div .awards-accordion-sub-title>
+                                  "Crossfit Attack Classic"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <div .text-box>
+                                <div .text-block light-gray small>
+                                  "Site Selection"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <a .testimonial-button w-inline-block href=https://crossfitattackclassic.webflow.io/>
+                                <div .>
+                                  "Visit Website"
+                        <div .awards-accordion-tab>
+                          <div .w-layout-grid inner-awards-accordion-grid>
+                            <div .grid-block>
+                              <div .text-box>
+                                <div .awards-accordion-sub-title>
+                                  "Silv Studio"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <div .text-box>
+                                <div .text-block light-gray small>
+                                  "Site Selection"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <a .testimonial-button w-inline-block href=#>
+                                <div .>
+                                  "Visit Website"
+                  <div .slide-up-animation-01>
+                    <div .awards-accordion-item w-dropdown>
+                      <div .awards-accordion-toggle w-dropdown-toggle>
+                        <div .faq-title-wrapper>
+                          <div .awards-accordion-title>
+                            "Inspovault"
+                          <div .faq-icon-wrap>
+                            <img .accordion-icon services src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6676c9a48d44ac437f2d39f7_chevron.svg>
+                      <nav .accordion-content _02 w-dropdown-list>
+                        <div .awards-accordion-tab>
+                          <div .w-layout-grid inner-awards-accordion-grid>
+                            <div .grid-block>
+                              <div .text-box>
+                                <div .awards-accordion-sub-title>
+                                  "Silv Studio"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <div .text-box>
+                                <div .text-block light-gray small>
+                                  "Site Selection"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <a .testimonial-button w-inline-block href=#>
+                                <div .>
+                                  "Visit Website"
+                  <div .slide-up-animation-01>
+                    <div .awards-accordion-item w-dropdown>
+                      <div .awards-accordion-toggle w-dropdown-toggle>
+                        <div .faq-title-wrapper>
+                          <div .awards-accordion-title>
+                            "CSS Nectar"
+                          <div .faq-icon-wrap>
+                            <img .accordion-icon services src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6676c9a48d44ac437f2d39f7_chevron.svg>
+                      <nav .accordion-content _02 w-dropdown-list>
+                        <div .awards-accordion-tab>
+                          <div .w-layout-grid inner-awards-accordion-grid>
+                            <div .grid-block>
+                              <div .text-box>
+                                <div .awards-accordion-sub-title>
+                                  "Zura Banking"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <div .text-box>
+                                <div .text-block light-gray small>
+                                  "Site of the day"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <a .testimonial-button w-inline-block href=https://zurabanking.webflow.io/home/home-01>
+                                <div .>
+                                  "Visit Website"
+                        <div .awards-accordion-tab>
+                          <div .w-layout-grid inner-awards-accordion-grid>
+                            <div .grid-block>
+                              <div .text-box>
+                                <div .awards-accordion-sub-title>
+                                  "Sayian Drinks"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <div .text-box>
+                                <div .text-block light-gray small>
+                                  "Site of the day"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <a .testimonial-button w-inline-block href=https://sayian-drinks.webflow.io/homepage/home-01>
+                                <div .>
+                                  "Visit Website"
+                  <div .slide-up-animation-01>
+                    <div .awards-accordion-item w-dropdown>
+                      <div .awards-accordion-toggle w-dropdown-toggle>
+                        <div .faq-title-wrapper>
+                          <div .awards-accordion-title>
+                            "Orpetron"
+                          <div .faq-icon-wrap>
+                            <img .accordion-icon services src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6676c9a48d44ac437f2d39f7_chevron.svg>
+                      <nav .accordion-content _02 w-dropdown-list>
+                        <div .awards-accordion-tab>
+                          <div .w-layout-grid inner-awards-accordion-grid>
+                            <div .grid-block>
+                              <div .text-box>
+                                <div .awards-accordion-sub-title>
+                                  "Zura Banking"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <div .text-box>
+                                <div .text-block light-gray small>
+                                  "Site Selection"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <a .testimonial-button w-inline-block href=https://zurabanking.webflow.io/home/home-01>
+                                <div .>
+                                  "Visit Website"
+                        <div .awards-accordion-tab>
+                          <div .w-layout-grid inner-awards-accordion-grid>
+                            <div .grid-block>
+                              <div .text-box>
+                                <div .awards-accordion-sub-title>
+                                  "Sayian Drinks"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <div .text-box>
+                                <div .text-block light-gray small>
+                                  "Site Selection"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <a .testimonial-button w-inline-block href=https://sayian-drinks.webflow.io/homepage/home-01>
+                                <div .>
+                                  "Visit Website"
+                    <div .awards-accordion-item w-dropdown>
+                      <div .awards-accordion-toggle w-dropdown-toggle>
+                        <div .faq-title-wrapper>
+                          <div .awards-accordion-title>
+                            "Lapa"
+                          <div .faq-icon-wrap>
+                            <img .accordion-icon services src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/6676c9a48d44ac437f2d39f7_chevron.svg>
+                      <nav .accordion-content _02 w-dropdown-list>
+                        <div .awards-accordion-tab>
+                          <div .w-layout-grid inner-awards-accordion-grid>
+                            <div .grid-block>
+                              <div .text-box>
+                                <div .awards-accordion-sub-title>
+                                  "Silv Studio"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <div .text-box>
+                                <div .text-block light-gray small>
+                                  "Site Selection"
+                            <div .grid-block auto-right-portrait-mobile>
+                              <a .testimonial-button w-inline-block href=https://www.silvstudio.co/>
+                                <div .>
+                                  "Visit Website"
+        <section .section footer-new>
+          <div .container above-footer-cta>
+            <div .w-layout-grid heading-grid-main cta-above-footer>
+              <div .grid-block>
+                <h2 .h2-heading cta-bottom-01>
+                  "Got a project in mind?"
+                <h2 .h2-heading gray>
+                  "Let’s talk."
+              <div .cta-button-wrapper>
+                <a .general-button black w-button href=/contact-us>
+                  "Contact us"
+          <div .w-layout-blockcontainer container footer w-container>
+            <a .image-wrapper footer-logo w-inline-block w--current href=/>
+              <img .content-image _100 src=https://cdn.prod.website-files.com/667369e53cd4ba666c3470ed/69a75666cfecd27d68a9c0c2_silv-studio-log>
+            <div .content-wrapper footer-bottom>
+              <div .w-layout-vflex footer-blocks-container>
+                <div .footer-block-wrapper menu-links>
+                  <div .footer-inner-block>
+                    <div .menu-link-title>
+                      "Menu"
+                    <a . href=/portfolio-projects>
+                      "Projects"
+                    <a . href=/services>
+                      "All Services"
+                    <a . href=/about-us>
+                      "About"
+                  <div .footer-inner-block>
+                    <div .menu-link-title>
+                      "Services"
+                    <a . href=/services/website-design>
+                      "Web Design"
+                    <a . href=/services/web-development>
+                      "Web Development"
+                    <a . href=/services/branding>
+                      "Visual Identity"
+                    <a . href=/services/search-engine-optimization>
+                      "SEO"
+                    <a . href=/services/ecommerce>
+                      "Ecommerce"
+                  <div .footer-inner-block>
+                    <div .menu-link-title>
+                      "Resources"
+                    <a . href=/faq>
+                      "FAQ"
+                    <a . href=/testimonials>
+                      "Reviews"
+                    <a . href=/blog>
+                      "Blog Insights"
+                    <a . href=/awards>
+                      "Awards"
+                  <div .footer-inner-block>
+                    <div .menu-link-title>
+                      "Support"
+                    <a . href=/contact-us>
+                      "Contact"
+                <div .footer-block-wrapper form-social>
+                  <div .footer-inner-block>
+                    <div .menu-link-title>
+                      "Follow"
+                    <a . href=https://www.facebook.com/silvstudio.co/>
+                      "Facebook"
+                    <a . href=https://www.instagram.com/silvstudio.co>
+                      "Instagram"
+                    <a . href=https://www.tiktok.com/@silvstudio?is_from_webapp=1&sender_d>
+                      "Tiktok"
+                    <a . href=https://www.youtube.com/channel/UCvu9JYUhKCH_IqpcFpS_wGQ>
+                      "Youtube"
+                    <a . href=https://www.linkedin.com/company/silvstudio/>
+                      "Linkedin"
+                    <a . href=https://dribbble.com/silvstudio>
+                      "Dribbble"
+                    <a . href=https://www.behance.net/silvstudio>
+                      "Behance"
+                    <a . href=https://x.com/silvstudioco>
+                      "X"
+                  <div .footer-form w-form>
+                    <form .contact-form footer>
+                      <div .>
+                        "Silv Studio Newsletter"
+                      <div .contact-form-container>
+                        <div .w-layout-grid form-grid>
+                          <div .contact-input-wrapper>
+                    <div .success-message w-form-done>
+                      <div .>
+                        "Thank you! Your submission has been received!"
+                    <div .error-message w-form-fail>
+                      <div .>
+                        "Oops! Something went wrong while submitting the form."
+                <div .footer-bottom-copyright-block>
+                  <div .copyright-form-text-block>
+                    "Copyright @ 2026 Silv Studio"
+                  <div .w-layout-hflex flex-block footer-bottom>
+                    <a .copyright-form-text-block href=/privacy-policy>
+                      "Privacy Policy"
+      <div .popup-modal w-embed w-script>
+        <div .projects-video-modal>
+          <div .projects-video-modal__backdrop>
+          <div .projects-video-modal__panel>
+            <button .projects-video-modal__close>
+              <span .>
+                "×"
+            <div .projects-video-modal__media>
